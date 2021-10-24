@@ -10,8 +10,13 @@ Probably better way to do this, but for now this will do.
 """
 
 __author__ = 'Inigo Montoya (inigo.montoya@unicornrentals.click)'
+<<<<<<< HEAD
 __vcs_id__ = 'a0fc30732c5325293aa034c06ee55275'
 __version__ = '336d199075b9032ebfc4caf15fd4d843'
+=======
+__vcs_id__ = 'a0e0f49c0cf37866231f77ed269e514b'
+__version__ = '1ac63b8730422a88cdf86aafec9e80ad'
+>>>>>>> parent of 74a05d5 (Erratic subject/verb replacements)
 
 from flask import Flask, request
 from flask_restful import Resource, Api

@@ -1,5 +1,11 @@
 {
+<<<<<<< HEAD
     "image": "B2CfHu1tjEEF+ViTNcqAlmva+OLIp1ZC2c+e9BIntrb0XlNwEnPIhzM/leYE8txd0Rw=", 
     "name": "Eliza", 
     "description": "This pony is Shimmering Silver, with bright Yellow eyes. When they are not being rented by Unicorn Rentals users, they love EC2"
+=======
+    "image": "YYtwqPe7+0mqLNLHVq0Be8myQAcGpBGvk5jpHsSVOcLVO7nbh6TzMBxTMfNQcAHkvyE=", 
+    "name": "Eliza", 
+    "description": "This pony is Strawberry, with bright Hazel eyes. When they are not being rented by Unicorn Rentals users, they love AWS"
+>>>>>>> parent of 74a05d5 (Erratic subject/verb replacements)
 }
